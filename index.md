@@ -2,122 +2,55 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About Me
 
-[Link to another page](./another-page.html).
+Ph.D. in biomedical engineering (BME) with strong background in medical image processing, signal processing, software design and integration, and AI/ML.
 
-There should be whitespace between paragraphs.
+## Specialties
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+*   Biomedical image segmentation
+*   Deep learning
+*   Scientific computing
+*   Optimization
+*   Automation
+*   Platform integration
 
-# Header 1
+## Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### <span><img src="https://media.licdn.com/dms/image/D560BAQEtcUd-KF909g/company-logo_200_200/0/1708463593072/mdandersoncancercenter_logo?e=1721260800&v=beta&t=UYo5tL53mMnaJFBtxxU5zul0afZ6VFDVdrXwOzmfcL4" alt="MD Anderson" width="20"/> Principal Application Systems Analyst, MD Anderson Cancer Center</span> <span>Jul 2021 -- Present</span>
 
-## Header 2
+Designing and managing the process of building automated image interpretation tools and the extraction of tumor measurements to fulfil the TMI (Tumor Measurement Initiative) objective
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+ - Served as Tumor Measurement Initiative (TMI) automation lead to build an institutional platform to support standardized, automated, quantitative imaging-based tumor measurement across each patient’s journey to advance multidisciplinary, data-driven, high precision cancer treatment.
+ - Designing and managing the process of building automated image interpretation tools and the extraction of tumor measurements.
+ - Working with internal and external teams that are developing specific image analysis algorithms and coordinating these developments in a fashion that supports scientific/technical evaluation and integration into the broader TMI effort.
+ - Participating in developing institutional machine learning model management solutions and serving as the imaging technical subject matter expert.
+ - Collaborating with researchers and clinicians working on healthcare information systems (e.g., EPIC, PACS, RayStation, etc.) in the capture and curation of multidimensional data and developing computational modeling approaches for medical imaging.
+ - Participating in the coordination of machine learning model management from development to clinical deployment. 
+ - Managing the data scientist team and ensure the alignment with the overall priority.
 
-### Header 3
+### <span><img src="https://media.licdn.com/dms/image/C560BAQGYAA3rdVyR3g/company-logo_200_200/0/1633619117229/evoke_neuroscience_logo?e=1721260800&v=beta&t=0_ApQ-0RLu_ZNSdeH5uW6vkBRNSwtUTFny_KfPfFkX0" alt="Evoke" width="20"/> Senior Biomedical Product Engineer, Evoke Neuroscience</span> <span>Feb 2020 -- Jul 2021</span>
+### <span><img src="https://media.licdn.com/dms/image/C560BAQGYAA3rdVyR3g/company-logo_200_200/0/1633619117229/evoke_neuroscience_logo?e=1721260800&v=beta&t=0_ApQ-0RLu_ZNSdeH5uW6vkBRNSwtUTFny_KfPfFkX0" alt="Evoke" width="20"/> Biomedical Software Engineer, Evoke Neuroscience</span> <span>Mar 2012 -- Feb 2020</span>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Manage technical and engineering projects; Medical Device software development and integration of cloud-based analytics platform
+ - Launched flagship product that generated $2 million annual revenue and earned company a spot on Inc. 500 Fastest-Growing Private Companies.
+ - Led software development and integration of cloud-based analytics platform.
+ - Served as technical and scientific executive and working closely with Director of IT.
+ - Participated in the preparation and maintenance of FDA regulated software design documentations that earned company 510(k) approval for its medical device, the eVox®.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Journal Publications
+- Satrajit Chakrbarty, Syed Amaan Abidi, Mina Mousa, Mahati Mokkarala, Isabelle Hren, Divya Yadav, Matthew Kelsey, Pamela LaMontagne, John Wood, Michael Adams, Yuzhuo Su, Sherry Thorpe, Caroline Chung, Aristeidis Sotiras, and Daniel S. Marcus. Integrative imaging informatics for cancer research: Workflow automation for neuro-oncology (i3cr-wano). IEEE Journal of Biomedical and Health Informatics. [Under review (2022)].
+- Yu Huang, Jacek P. Dmochowski, Yuzhuo Su, Abhishek Datta, Christopher Rorden, Lucas C. Parra. Automated MRI segmentation for individualized modeling of current flow in the human head. Journal of Neural Engineering, 2013, 10 (6): 066004.
+- Abhishek Datta, Xiang Zhou, Yuzhuo Su, Lucas C. Parra, Marom Bikson. Validation of finite element model of transcranial electrical stimulation using scalp potentials: implications for clinical dose. Journal of Neural Engineering, 2013, 10 (3): 036018.
+- Jacek P. Dmochowski, Abhishek Datta, Marom Bikson, Yuzhuo Su, Lucas C. Parra. 	Optimized Multi-Electrode Stimulation Increases Focality and Intensity on Target. 	Journal of Neural Engineering, 2011, 8 (4): 046011.
+- Yuzhuo Su, Sunitha B. Thakur, Sasan Karimi, Shuyan Du, Paul Sajda, Wei Huang, Lucas C. Parra. Spectrum Separation Resolves Partial Volume Effect of MRSI as Demonstrated on Brain Tumor Scans. NMR in Biomedicine, 2008, 21 (10): 1030-1042.
+- Yuzhuo Su, Thomas Radman, Jake Vaynshteyn, Lucas C. Parra, Marom Bikson. Effects of High-Frequency Stimulation on Epileptiform Activity In Vitro:  ON/OFF Control Paradigm. Epilepsia, 2008, 49 (9): 1586-1593.
+- Je Hi An, Yuzhuo Su, Thomas Radman, Marom Bikson. Effects of Glucose and Glutamine Concentration in the Formulation of the Artificial Cerebrospinal Fluid (ACSF). Brain Research, 2008, 1218 (7): 77-86.
+- Thomas Radman, Yuzhuo Su, Je Hi An, Lucas C. Parra, Marom Bikson. Spike Timing Amplifies the Effect of Electric Fields on Neurons: Implications for Endogenous Field-Effects. Journal of Neuroscience, 2007, 27 (11): 3030-3036.
 
 
-### Definition lists can be used with HTML syntax.
+## Patents
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### NEUROCRANIAL ELECTROSTIMULATION MODELS, SYSTEMS, DEVICES AND METHODSNEUROCRANIAL ELECTROSTIMULATION MODELS, SYSTEMS, DEVICES AND METHODS, US 20120245653 · Issued Sep 27, 2012
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Methods, systems, and apparatus, including computer programs encoded on a computer storage medium, for developing transcranial electrical stimulation protocols are disclosed. In one aspect, a method includes the actions of accepting an image model of target tissue, obtaining a forward model having a first electrode configuration and first electrical stimulation parameters based on electrical stimulation of the target tissue, accepting electrode configuration changes or electrical stimulation parameter changes resulting in a second electrode configuration or second electrical stimulation parameters, determining an optimized tissue model using a least square methodology and based on the second electrode configuration or second electrical stimulation parameter changes, comparing the optimized tissue model with a desired outcome, and providing a confirmation of the optimized model with the desired outcome.
