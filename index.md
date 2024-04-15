@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-I am currently a Principal Application Systems Analyst in the department of Oncology Care & RI Systems at MD Anderson Cancer Center in Houston, TX. I am the technical lead of the Tumor Measurement Initiative (TMI) of [the Institute for Data Science in Oncology (IDSO)](https://www.mdanderson.org/research/departments-labs-institutes/institutes/institute-for-data-science-in-oncology.html). The goal for TMI is to building an institutional framework that supports standardized, automated, quantitative, imaging-based tumor measurements across each patient’s treatment to reduce uncertainty in determining tumor progression and empower physicians to adapt treatments more quickly, if needed. I earned my Ph.D. in biomedical engineering (BME), specializing in medical image processing, signal processing, software design & integration, and AI/ML.
+I am currently a Principal Application Systems Analyst in the department of Oncology Care & RI Systems at MD Anderson Cancer Center in Houston, TX. I am the technical lead of the Tumor Measurement Initiative (TMI) of [the Institute for Data Science in Oncology (IDSO)](https://www.mdanderson.org/research/departments-labs-institutes/institutes/institute-for-data-science-in-oncology.html). The goal for TMI is to building an institutional framework that supports standardized, automated, quantitative, imaging-based tumor measurements across each patient’s treatment to reduce uncertainty in determining tumor progression and empower physicians to adapt treatments more quickly, if needed. I earned my Ph.D. in biomedical engineering (BME) at City University of New York (CCNY) in 2009, specializing in biomedical image processing, signal processing, software design & integration, and AI/ML.
 
 ## Specialties
 
@@ -19,7 +19,7 @@ I am currently a Principal Application Systems Analyst in the department of Onco
 
 ## Experience
 
-### <span><img src="https://media.licdn.com/dms/image/D560BAQEtcUd-KF909g/company-logo_200_200/0/1708463593072/mdandersoncancercenter_logo?e=1721260800&v=beta&t=UYo5tL53mMnaJFBtxxU5zul0afZ6VFDVdrXwOzmfcL4" alt="MD Anderson" width="20"/> Principal Application Systems Analyst, MD Anderson Cancer Center</span> <span>Jul 2021 -- Present</span>
+<span><img src="https://media.licdn.com/dms/image/D560BAQEtcUd-KF909g/company-logo_200_200/0/1708463593072/mdandersoncancercenter_logo?e=1721260800&v=beta&t=UYo5tL53mMnaJFBtxxU5zul0afZ6VFDVdrXwOzmfcL4" alt="MD Anderson" width="20"/> Principal Application Systems Analyst, MD Anderson Cancer Center,</span> <span>Jul 2021 -- Present</span>
 
 Designing and managing the process of building automated image interpretation tools and the extraction of tumor measurements to fulfil the TMI (Tumor Measurement Initiative) objective
 
@@ -31,8 +31,9 @@ Designing and managing the process of building automated image interpretation to
  - Participating in the coordination of machine learning model management from development to clinical deployment. 
  - Managing the data scientist team and ensure the alignment with the overall priority.
 
-### <span><img src="https://media.licdn.com/dms/image/C560BAQGYAA3rdVyR3g/company-logo_200_200/0/1633619117229/evoke_neuroscience_logo?e=1721260800&v=beta&t=0_ApQ-0RLu_ZNSdeH5uW6vkBRNSwtUTFny_KfPfFkX0" alt="Evoke" width="20"/> Senior Biomedical Product Engineer, Evoke Neuroscience</span> <span>Feb 2020 -- Jul 2021</span>
-### <span><img src="https://media.licdn.com/dms/image/C560BAQGYAA3rdVyR3g/company-logo_200_200/0/1633619117229/evoke_neuroscience_logo?e=1721260800&v=beta&t=0_ApQ-0RLu_ZNSdeH5uW6vkBRNSwtUTFny_KfPfFkX0" alt="Evoke" width="20"/> Biomedical Software Engineer, Evoke Neuroscience</span> <span>Mar 2012 -- Feb 2020</span>
+<span><img src="https://media.licdn.com/dms/image/C560BAQGYAA3rdVyR3g/company-logo_200_200/0/1633619117229/evoke_neuroscience_logo?e=1721260800&v=beta&t=0_ApQ-0RLu_ZNSdeH5uW6vkBRNSwtUTFny_KfPfFkX0" alt="Evoke" width="20"/> Senior Biomedical Product Engineer, Evoke Neuroscience,</span> <span>Feb 2020 -- Jul 2021</span>
+
+<span><img src="https://media.licdn.com/dms/image/C560BAQGYAA3rdVyR3g/company-logo_200_200/0/1633619117229/evoke_neuroscience_logo?e=1721260800&v=beta&t=0_ApQ-0RLu_ZNSdeH5uW6vkBRNSwtUTFny_KfPfFkX0" alt="Evoke" width="20"/> Biomedical Software Engineer, Evoke Neuroscience,</span> <span>Mar 2012 -- Feb 2020</span>
 
 Manage technical and engineering projects; Medical Device software development and integration of cloud-based analytics platform
  - Launched flagship product that generated $2 million annual revenue and earned company a spot on Inc. 500 Fastest-Growing Private Companies.
@@ -53,6 +54,6 @@ Manage technical and engineering projects; Medical Device software development a
 
 ## Patents
 
-### NEUROCRANIAL ELECTROSTIMULATION MODELS, SYSTEMS, DEVICES AND METHODSNEUROCRANIAL ELECTROSTIMULATION MODELS, SYSTEMS, DEVICES AND METHODS, US 20120245653 · Issued Sep 27, 2012
+NEUROCRANIAL ELECTROSTIMULATION MODELS, SYSTEMS, DEVICES AND METHODSNEUROCRANIAL ELECTROSTIMULATION MODELS, SYSTEMS, DEVICES AND METHODS, US 20120245653 · Issued Sep 27, 2012
 
 Methods, systems, and apparatus, including computer programs encoded on a computer storage medium, for developing transcranial electrical stimulation protocols are disclosed. In one aspect, a method includes the actions of accepting an image model of target tissue, obtaining a forward model having a first electrode configuration and first electrical stimulation parameters based on electrical stimulation of the target tissue, accepting electrode configuration changes or electrical stimulation parameter changes resulting in a second electrode configuration or second electrical stimulation parameters, determining an optimized tissue model using a least square methodology and based on the second electrode configuration or second electrical stimulation parameter changes, comparing the optimized tissue model with a desired outcome, and providing a confirmation of the optimized model with the desired outcome.
