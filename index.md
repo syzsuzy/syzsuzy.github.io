@@ -4,7 +4,7 @@ layout: default
 # Yuzhuo Su
 ## About Me
 
-I am currently a Principal Application Systems Analyst in the department of Oncology Care & RI Systems at MD Anderson Cancer Center in Houston, TX. I am the technical lead of the Tumor Measurement Initiative (TMI) of [the Institute for Data Science in Oncology (IDSO)](https://www.mdanderson.org/research/departments-labs-institutes/institutes/institute-for-data-science-in-oncology.html). The goal for TMI is to build an institutional framework that supports standardized, automated, quantitative, imaging-based tumor measurements across each patient’s treatment to reduce uncertainty in determining tumor progression and empower physicians to adapt treatments more quickly, if needed. 
+I am currently a Principal Application System Analyst in the department of Oncology Care & RI Systems at MD Anderson Cancer Center in Houston, TX. I am the technical lead of the Tumor Measurement Initiative (TMI) automation team of [the Institute for Data Science in Oncology (IDSO)](https://www.mdanderson.org/research/departments-labs-institutes/institutes/institute-for-data-science-in-oncology.html). The goal for TMI is to build an institutional framework that supports standardized, automated, quantitative, imaging-based tumor measurements across each patient’s treatment to reduce uncertainty in determining tumor progression and empower physicians to adapt treatments more quickly, if needed. 
 
 I earned my Ph.D. in biomedical engineering (BME) at City University of New York (CCNY) in 2009, specializing in biomedical image processing, signal processing, software design & integration, and AI/ML.
 
