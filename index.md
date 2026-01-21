@@ -19,7 +19,7 @@ I earned my Ph.D. in biomedical engineering (BME) at City University of New York
 
 ## Experience
 
-<span><img src="https://media.licdn.com/dms/image/D560BAQEtcUd-KF909g/company-logo_200_200/0/1708463593072/mdandersoncancercenter_logo?e=1721260800&v=beta&t=UYo5tL53mMnaJFBtxxU5zul0afZ6VFDVdrXwOzmfcL4" alt="MD Anderson" width="20"/> Principal Application Systems Analyst, MD Anderson Cancer Center,</span> <span>Jul 2021 -- Present</span>
+<span><img src="./assets/mdandersoncancercenter_logo.jpeg" alt="MD Anderson" width="20"/> Principal Application Systems Analyst, MD Anderson Cancer Center,</span> <span>Jul 2021 -- Present</span>
 
 Designing and managing the process of building automated image interpretation tools and the extraction of tumor measurements to fulfil the TMI (Tumor Measurement Initiative) objective
 
@@ -31,13 +31,15 @@ Designing and managing the process of building automated image interpretation to
  - Participating in the coordination of machine learning model management from development to clinical deployment. 
  - Managing the data scientist team and ensure the alignment with the overall priority.
 
-<span><img src="https://media.licdn.com/dms/image/C560BAQGYAA3rdVyR3g/company-logo_200_200/0/1633619117229/evoke_neuroscience_logo?e=1721260800&v=beta&t=0_ApQ-0RLu_ZNSdeH5uW6vkBRNSwtUTFny_KfPfFkX0" alt="Evoke" width="20"/> Senior Biomedical Product Engineer, Evoke Neuroscience,</span> <span>Feb 2020 -- Jul 2021</span>
-
-<span><img src="https://media.licdn.com/dms/image/C560BAQGYAA3rdVyR3g/company-logo_200_200/0/1633619117229/evoke_neuroscience_logo?e=1721260800&v=beta&t=0_ApQ-0RLu_ZNSdeH5uW6vkBRNSwtUTFny_KfPfFkX0" alt="Evoke" width="20"/> Biomedical Software Engineer, Evoke Neuroscience,</span> <span>Mar 2012 -- Feb 2020</span>
+<span><img src="./assets/evoke_neuroscience_logo.jpeg" alt="Evoke" width="20"/> Senior Biomedical Product Engineer, Evoke Neuroscience,</span> <span>Feb 2020 -- Jul 2021</span>
 
 Manage technical and engineering projects; Medical Device software development and integration of cloud-based analytics platform
  - Launched flagship product that generated $2 million annual revenue and earned company a spot on Inc. 500 Fastest-Growing Private Companies.
  - Led software development and integration of cloud-based analytics platform.
+
+<span><img src="./assets/evoke_neuroscience_logo.jpeg" alt="Evoke" width="20"/> Biomedical Software Engineer, Evoke Neuroscience,</span> <span>Mar 2012 -- Feb 2020</span>
+
+Algorithm and Software Development and Integration
  - Served as technical and scientific executive and working closely with Director of IT.
  - Participated in the preparation and maintenance of FDA regulated software design documentations that earned company 510(k) approval for its medical device, the eVox®.
 
@@ -57,3 +59,9 @@ Manage technical and engineering projects; Medical Device software development a
 NEUROCRANIAL ELECTROSTIMULATION MODELS, SYSTEMS, DEVICES AND METHODSNEUROCRANIAL ELECTROSTIMULATION MODELS, SYSTEMS, DEVICES AND METHODS, US 20120245653 · Issued Sep 27, 2012
 
 Methods, systems, and apparatus, including computer programs encoded on a computer storage medium, for developing transcranial electrical stimulation protocols are disclosed. In one aspect, a method includes the actions of accepting an image model of target tissue, obtaining a forward model having a first electrode configuration and first electrical stimulation parameters based on electrical stimulation of the target tissue, accepting electrode configuration changes or electrical stimulation parameter changes resulting in a second electrode configuration or second electrical stimulation parameters, determining an optimized tissue model using a least square methodology and based on the second electrode configuration or second electrical stimulation parameter changes, comparing the optimized tissue model with a desired outcome, and providing a confirmation of the optimized model with the desired outcome.
+
+
+## Connect with Me
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />](https://www.linkedin.com/in/yuzhuo/) &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="30" alt="Google Scholar" />](https://scholar.google.com/citations?user=JsXnhlQAAAAJ&hl=en)
